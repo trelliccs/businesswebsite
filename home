@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device=width, initial-scale=1.0">
+		<title>The News</title>
+		<link rel="stylesheet" href="bootstrap.min.css">
+		<link rel="stylesheet" href="home.css">
+	</head>
+
+	<body>
+
+		<div class="container">
+			<div class="logo-wrapper d-flex align-items-center">
+				<h1>
+					<a href="contactus.html">
+						Good News!
+					</a>
+				</h1>
+			</div>
+		</div>
+
+		
+
+			<div class="container main-news section">
+				<div class="row">
+					<div class="col-sm-12 col-md-6 col-xs-12 col-lg-6">
+						<img class="thumb mb-3" src="https://s.hdnux.com/photos/01/25/05/26/22304157/15/1200x0.jpg">
+						<h3>
+							<a class="font-large" href="https://www.sfchronicle.com/sf/article/Good-news-for-S-F-classrooms-More-than-300-17163355.php">
+								Good news for S.F. classrooms: More than 300 teachers to be spared from imminent layoffs
+							</a>
+						</h3>
+					</div>
+					<div class="col-sm-12 col-md-6 col-xs-12 col-lg-6">
+						<div class="row">
+							<div class="col-md-6 col-sm-12 col-xs-12 col-lg-6">
+								<div class="image image-sm mb-1">
+									<img class="thumb" src="https://www.goodnewsnetwork.org/wp-content/uploads/2022/05/winner-euromillions-connolly-national-lottery-released.jpg">
+								</div>
+								<h3 class="mb-4">
+									<a href="https://www.goodnewsnetwork.org/irish-woman-frances-connelley-who-won-145m-lottery-has-given-over-half/">
+										Irish Woman Who Won $145M Lottery Has Given Over Half: ‘I’m Addicted to Helping People’
+
+									</a>
+								</h3>
+
+								<div class="image image-sm mb-1">
+									<img class="thumb" src="https://www.goodnewsnetwork.org/wp-content/uploads/2022/05/Gabriel-Clark-with-bowl-for-Ukraine-family-photo.jpg">
+								</div>
+								<h3 class="mb-4">
+									<a href="https://www.goodnewsnetwork.org/with-his-handmade-bowl-this-12-year-old-raised-325000-for-ukrainian-kids/">
+                                        With His Handmade Bowl, this 12-Year-old Raised $325,000 for Ukrainian Kids
+									</a>
+								</h3>
+
+							</div>
+
+							<div class="col-md-6 col-sm-12 col-xs-12 col-lg-6">
+								<div class="image image-sm mb-1">
+									<img class="thumb" src="https://www.goodnewsnetwork.org/wp-content/uploads/2022/04/tongai-bartender-family-photo-tongai.jpg">
+								</div>
+								<h3 class="mb-4">
+									<a href="https://www.goodnewsnetwork.org/tongai-matandirotya-helps-save-family-from-drowning/">
+										Bartender Immediately Drops Beer to Save Family Swept By Rogue Wave Into Rip Current
+
+									</a>
+								</h3>
+
+								<div class="image image-sm mb-3">
+									<img class="thumb image-sm" src="https://www.goodnewsnetwork.org/wp-content/uploads/2022/05/Rumble-video-screen-shot-solar-Portugal-floating.jpg">
+								</div>
+								<h3>
+									<a href="https://www.goodnewsnetwork.org/biggest-floating-solar-park-in-europe-in-portugal-reservoir/">
+										Biggest Floating Solar Park in Europe Perfectly Integrates in Portugal Reservoir
+
+									</a>
+								</h3>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="container section mt-4">
+				<div class="section-title">
+					<span>Furry Friends</span>
+				</div>
+				<div class="row">
+					<div class="col-sm-12 col-xs-12 col-md-3 col-lg-3">
+						<div class="mb-2 image image-xs">
+							<img class="thumb" src="https://www.goodnewsnetwork.org/wp-content/uploads/2022/04/sloth-swns.jpg">
+						</div>
+						<a href="https://www.goodnewsnetwork.org/sloth-formed-adorable-relationship-keeper/">
+							Sloth Is Friends With Zookeeper and Won’t Get Out of Bed Until They’ve Had Morning Cuddles
+						</a>
+					</div>
+					<div class="col-sm-12 col-xs-12 col-md-3 col-lg-3">
+						<div class="mb-2 image image-xs">
+							<img class="thumb" src="https://www.goodnewsnetwork.org/wp-content/uploads/2022/04/swns-dog.jpg">
+						</div>
+						<a href="https://www.goodnewsnetwork.org/miracle-dog-survives-12-days-trapped-in-badger-holes/">
+							Miracle Dog Survives 12 Days Trapped in Badger Holes After Owner Refuses to Give Up, Camping in the Woods
+						</a>
+					</div>
+					<div class="col-sm-12 col-xs-12 col-md-3 col-lg-3">
+						<div class="mb-2 image image-xs">
+							<img class="thumb" src="https://www.goodnewsnetwork.org/wp-content/uploads/2022/04/soldier-dog-Duke-rescue-SWNS.jpg">
+						</div>
+						<a href="https://www.goodnewsnetwork.org/paws-of-war-helps-reunite-veteran-with-soldier-dog-from-kosovo/">
+                            Homeless Dog That Comforted Troops is Being Transported to America to Live With One of the Soldiers						</a>
+					</div>
+					<div class="col-sm-12 col-xs-12 col-md-3 col-lg-3">
+						<div class="mb-2 image image-xs">
+							<img class="thumb" src="https://www.goodnewsnetwork.org/wp-content/uploads/2022/05/owls-on-youtube-by-Robert-Fuller.jpg">
+						</div>
+						<a href="https://www.goodnewsnetwork.org/watch-owl-mother-immediately-adopts-two-rescue-chicks/">
+Owl Immediately Adopts Two Rescue Chicks the Moment She Meets Them – After Her Own Eggs Failed
+						</a>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="container section">
+				<div class="row">
+					<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+						<div class="mb-4 mt-4">
+							<div class="section-title">
+								
+
+
+		<script type="text/javascript">
+			window.onscroll = function(){
+				setSticky();
+			}
+
+			navbar = document.getElementsByClassName('menu')[0];
+			var sticky = navbar.offsetTop;
+			function setSticky(){
+				if(window.pageYOffset >= sticky){
+					navbar.classList.add('sticky');
+				}else{
+					navbar.classList.remove('sticky');
+				}
+			}
+		</script>
+
+
+
+
+
+	</body>
+
+</html>
